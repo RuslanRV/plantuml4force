@@ -3,4 +3,31 @@
     <fullName>plantuml4force</fullName>
     <apiAccessLevel>Unrestricted</apiAccessLevel> 
     <version>28.0</version>
+	<types>
+		<members>ApexClassForTests</members>
+        <members>ApexParser</members>
+        <members>ClassDiagramCreatorCtrl</members>
+        <members>CodeMetrics</members>
+        <members>ERDCreatorCtrl</members>
+        <members>MultiselectController</members>
+        <members>MultiselectControllerTest</members>
+        <members>PlantUMLClassDiagram</members>
+        <members>PlantUMLERDiagram</members>
+        <members>SelectOptionSorter</members>        
+		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>classDiagramCreator</members>
+		<members>erdCreator</members>
+		<name>ApexPage</name>
+	</types>
+    <types>
+		<members>MultiselectPicklist</members>
+		<name>ApexComponent</name>
+	</types>
+    <types>
+		<members>jquery_min_js</members>
+        <members>rawdeflate_js</members>
+		<name>StaticResource</name>
+	</types>
 </Package>
